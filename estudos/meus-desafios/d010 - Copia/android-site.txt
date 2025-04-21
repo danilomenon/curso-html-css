@@ -61,3 +61,16 @@ Acesse aqui o site Android History para conhecer a sequência das versões "adoc
 Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema Android e seu simpático mascote.
          
 Site criado por Gustavo Guanabara para o CursoemVideo.
+
+:root {
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+
+    --font-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --font-destaque: "Bebas Neue", sans-serif;
+    --font-android: 'Android', cursive;
+}
